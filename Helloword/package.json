@@ -1,0 +1,12 @@
+{
+  "name": "helloword",
+  "version": "1.0.0",
+  "description": "this is nodejs frist project",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node hello.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
